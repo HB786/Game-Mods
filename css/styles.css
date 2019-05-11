@@ -1,3 +1,18 @@
 h1{
     color: blue;
 }
+
+.bar{
+    background-color: black;
+    padding: 1mm;
+}
+
+*{font-family: 'Stylish', sans-serif;
+}
+
+.mainimg{
+    width:10cm;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
